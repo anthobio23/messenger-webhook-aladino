@@ -1,0 +1,27 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "programa para bot en messenger facebook ",
+  "main": "index.js",
+  "scripts": {
+    "test": "bot active"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anthobio23/messeger_webhooks_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger"
+  ],
+  "author": "Anthony Servita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthobio23/messeger_webhooks_bot/issues"
+  },
+  "homepage": "https://github.com/anthobio23/messeger_webhooks_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
