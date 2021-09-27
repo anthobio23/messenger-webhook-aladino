@@ -4,6 +4,7 @@
   "description": "programa para bot en messenger facebook ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "bot active"
   },
   "repository": {
